@@ -9,7 +9,7 @@
 # All rights reserved - Do Not Redistribute
 #
 git '/home/rahul/wheel' do
-   repository 'https://github.com/bigbinary/wheel.git'
+   repository 'https://github.com/RahulMahale/wheel.git'
    revision 'master'
    action :sync
  
